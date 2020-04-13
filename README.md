@@ -15,7 +15,6 @@ Gravitech ขอเชิญเหล่า  MAKER มาทำเกมส์�
 | Gravitech arduino nano |   OLED SSD1331 | Switch 2 uint|
 |
 
-
 | Arduino nano | OLED SSD1331 | Switch
 | ------:| -----------:|-----------:|
 | 5V   |   VCC | |
@@ -28,11 +27,9 @@ Gravitech ขอเชิญเหล่า  MAKER มาทำเกมส์�
 |  2   |    | 2|
 |  3   |    | 3|
 
-
-<a href="https://ibb.co/xDHtsQW"><img src="https://i.ibb.co/xDHtsQW/ezgif-com-crop.gif" alt="ezgif-com-crop" border="0"></a>
-          
-<a href="https://ibb.co/VLdWGwD"><img src="https://i.ibb.co/7SHJDkV/line-01.jpg" alt="line-01" border="0"></a>
-<a href="https://ibb.co/R33cVJq"><img src="https://i.ibb.co/hBBVtTS/200413-0002.jpg" alt="200413-0002" border="0"></a>
-<a href="https://ibb.co/GHrXScF"><img src="https://i.ibb.co/5KJdHB2/200413-0005.jpg" alt="200413-0005" border="0"></a>
-<a href="https://ibb.co/LSZptp7"><img src="https://i.ibb.co/1Zm2q2W/200413-0007.jpg" alt="200413-0007" border="0"></a>
-<a href="https://ibb.co/wpjTsX3"><img src="https://i.ibb.co/F8C9VMN/200413-0008.jpg" alt="200413-0008" border="0"></a>
+<img src="https://i.ibb.co/CtNR958/ezgif-com-crop.gif" alt="ezgif-com-crop" border="0">       
+<img src="https://i.ibb.co/7SHJDkV/line-01.jpg" alt="line-01" border="0">
+<img src="https://i.ibb.co/hBBVtTS/200413-0002.jpg" alt="200413-0002" border="0">
+<img src="https://i.ibb.co/5KJdHB2/200413-0005.jpg" alt="200413-0005" border="0">
+<img src="https://i.ibb.co/1Zm2q2W/200413-0007.jpg" alt="200413-0007" border="0">
+<img src="https://i.ibb.co/F8C9VMN/200413-0008.jpg" alt="200413-0008" border="0">
