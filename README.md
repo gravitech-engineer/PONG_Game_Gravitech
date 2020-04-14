@@ -30,5 +30,4 @@ Gravitech ขอเชิญเหล่า  MAKER มาทำเกมส์�
 <img src="https://i.ibb.co/hBBVtTS/200413-0002.jpg" alt="200413-0002" border="0">
 <img src="https://i.ibb.co/5KJdHB2/200413-0005.jpg" alt="200413-0005" border="0">
 <img src="https://i.ibb.co/1Zm2q2W/200413-0007.jpg" alt="200413-0007" border="0">
-<img src="https://i.ibb.co/F8C9VMN/200413-0008.jpg" alt="200413-0008" border="0">
-[img]https://i.ibb.co/fC8YnBV/ezgif-com-crop.gif[/img]
+<img src="https://i.ibb.co/fC8YnBV/ezgif-com-crop.gif" alt="ezgif-com-crop" border="0" />
