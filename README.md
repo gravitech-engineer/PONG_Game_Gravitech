@@ -13,7 +13,6 @@ Gravitech ขอเชิญเหล่า  MAKER มาทำเกมส์�
 | Board | Display | Button
 | ------:| -----------:|---:|
 | Gravitech arduino nano |   OLED SSD1331 | Switch 2 uint|
-|
 
 | Arduino nano | OLED SSD1331 | Switch
 | ------:| -----------:|-----------:|
@@ -32,4 +31,4 @@ Gravitech ขอเชิญเหล่า  MAKER มาทำเกมส์�
 <img src="https://i.ibb.co/5KJdHB2/200413-0005.jpg" alt="200413-0005" border="0">
 <img src="https://i.ibb.co/1Zm2q2W/200413-0007.jpg" alt="200413-0007" border="0">
 <img src="https://i.ibb.co/F8C9VMN/200413-0008.jpg" alt="200413-0008" border="0">
-<img src="https://i.ibb.co/fC8YnBV/ezgif-com-crop.gif" alt="ezgif-com-crop" border="0">
+[img]https://i.ibb.co/fC8YnBV/ezgif-com-crop.gif[/img]
